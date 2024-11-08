@@ -1,0 +1,4 @@
+docker run --rm -ti -p 8080:8080 spring-k8s:latest
+// rm - delete container after exit
+// ti - run in intellij console
+// p - port from docker to host
